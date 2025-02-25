@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     color: #333;
-    background-color: #f9f9f9;
+    background-color: #000000;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 
 header {
-    background-color: #00106b;
+    background-color: #8b0000;
     color: white;
     padding: 20px;
     text-align: center;
@@ -42,7 +42,7 @@ main img {
 }
 
 footer {
-    background-color: #1e028349;
+    background-color: #333;
     color: white;
     text-align: center;
     padding: 10px;
