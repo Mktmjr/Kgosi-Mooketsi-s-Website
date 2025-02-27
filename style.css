@@ -1,14 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    color: white;
-    color: #ffffff;
+    color: #333;
     background-color: #000000;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-}
-p{
-    color: white;
 }
 
 header {
@@ -36,7 +32,6 @@ main {
     padding: 20px;
     max-width: 800px;
     margin: 0 auto;
-    background-color:black;
 }
 
 main img {
